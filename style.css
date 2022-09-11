@@ -146,7 +146,6 @@ nav .nav-bar .logo a {
   height: 100%;
   width: 100%;
   z-index: -1;
-  object-fit:inherit;
 }
 
 .phone-bg{
